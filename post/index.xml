@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paul&#39;s blog</title>
-    <link>m3at.github.io/</link>
-    <description>Recent content on Paul&#39;s blog</description>
+    <title>Posts on Paul&#39;s blog</title>
+    <link>m3at.github.io/post/</link>
+    <description>Recent content in Posts on Paul&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Dec 2020 14:02:03 +0900</lastBuildDate><atom:link href="m3at.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 14:02:03 +0900</lastBuildDate><atom:link href="m3at.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sanity Second</title>
       <link>m3at.github.io/post/sanity-second/</link>

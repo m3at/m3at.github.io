@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Paul&#39;s blog</title>
-    <link>m3at.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Paul&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Dec 2020 14:02:03 +0900</lastBuildDate><atom:link href="m3at.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Dec 2020 14:02:03 +0900</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sanity Second</title>
-      <link>m3at.github.io/post/sanity-second/</link>
+      <link>/post/sanity-second/</link>
       <pubDate>Tue, 29 Dec 2020 14:02:03 +0900</pubDate>
       
-      <guid>m3at.github.io/post/sanity-second/</guid>
+      <guid>/post/sanity-second/</guid>
       <description>All good Keep going. Crazy blog amiright?</description>
     </item>
     
     <item>
       <title>Sanity Check Post</title>
-      <link>m3at.github.io/post/sanity-check-post/</link>
+      <link>/post/sanity-check-post/</link>
       <pubDate>Tue, 29 Dec 2020 13:33:19 +0900</pubDate>
       
-      <guid>m3at.github.io/post/sanity-check-post/</guid>
+      <guid>/post/sanity-check-post/</guid>
       <description>Sanity Check And&amp;hellip;
 We&amp;rsquo;re good. 😊</description>
     </item>

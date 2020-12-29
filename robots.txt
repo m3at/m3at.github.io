@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: m3at.github.io/sitemap.xml
+Sitemap: sitemap.xml

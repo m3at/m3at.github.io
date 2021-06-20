@@ -44,7 +44,9 @@ To start, we need to find the mask, which correspond to the location of pixels t
 </span></code></pre></td><td class=lntd><pre class=chroma><code class=language-bash data-lang=bash>ffmpeg -i video.mp4 -vf <span class=s2>&#34;removelogo=mask.png&#34;</span> cleaned.mp4
 </code></pre></td></tr></table></div></div><p>This run at around x3 real-time on my aging MacBook Pro (i5-5287U), with a fixed overhead of ~5s for the mask extraction, which is fast! ✨</p><p>Clearly the resulting inpainting is not of high quality –we&rsquo;re not even leveraging temporal information across frames– but is reasonable enough as a baseline to compare against real-time approaches.</p></div><div class=post-copyright><p class=copyright-item><span class=item-title>Author</span>
 <span class=item-content>Paul Willot</span></p><p class=copyright-item><span class=item-title>LastMod</span>
-<span class=item-content>2021-04-13</span></p></div><footer class=post-footer><div class=post-tags><a href=/tags/video/>video</a></div><nav class=post-nav><a class=next href=/post/space-filling-curves-and-transformer/><span class="next-text nav-default">Space filling curves and CNN</span>
+<span class=item-content>2021-04-13</span></p></div><footer class=post-footer><div class=post-tags><a href=/tags/video/>video</a></div><nav class=post-nav><a class=prev href=/post/placeholder/><i class="iconfont icon-left"></i><span class="prev-text nav-default">Placeholder</span>
+<span class="prev-text nav-mobile">Prev</span></a>
+<a class=next href=/post/space-filling-curves-and-transformer/><span class="next-text nav-default">Space filling curves and CNN</span>
 <span class="next-text nav-mobile">Next</span>
 <i class="iconfont icon-right"></i></a></nav></footer></article></div></div></main><footer id=footer class=footer><div class=social-links><a href=https://www.linkedin.com/in/paul-willot-903a6b5b/ class="iconfont icon-linkedin" title=linkedin></a><a href=https://github.com/m3at class="iconfont icon-github" title=github></a><a href=/index.xml type=application/rss+xml class="iconfont icon-rss" title=rss></a></div><div class=copyright><span class=copyright-year>&copy;
 2020 -

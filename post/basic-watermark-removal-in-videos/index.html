@@ -44,7 +44,7 @@ To start, we need to find the mask, which correspond to the location of pixels t
 </span></code></pre></td><td class=lntd><pre class=chroma><code class=language-bash data-lang=bash>ffmpeg -i video.mp4 -vf <span class=s2>&#34;removelogo=mask.png&#34;</span> cleaned.mp4
 </code></pre></td></tr></table></div></div><p>This run at around x3 real-time on my aging MacBook Pro (i5-5287U), with a fixed overhead of ~5s for the mask extraction, which is fast! ✨</p><p>Clearly the resulting inpainting is not of high quality –we&rsquo;re not even leveraging temporal information across frames– but is reasonable enough as a baseline to compare against real-time approaches.</p></div><div class=post-copyright><p class=copyright-item><span class=item-title>Author</span>
 <span class=item-content>Paul Willot</span></p><p class=copyright-item><span class=item-title>LastMod</span>
-<span class=item-content>2021-04-13</span></p></div><footer class=post-footer><div class=post-tags><a href=/tags/video/>video</a></div><nav class=post-nav><a class=prev href=/post/placeholder/><i class="iconfont icon-left"></i><span class="prev-text nav-default">Placeholder</span>
+<span class=item-content>2021-04-13</span></p></div><footer class=post-footer><div class=post-tags><a href=/tags/video/>video</a></div><nav class=post-nav><a class=prev href=/post/denormal-number-at-inference-in-pytorch/><i class="iconfont icon-left"></i><span class="prev-text nav-default">Denormal number at inference in PyTorch</span>
 <span class="prev-text nav-mobile">Prev</span></a>
 <a class=next href=/post/space-filling-curves-and-transformer/><span class="next-text nav-default">Space filling curves and CNN</span>
 <span class="next-text nav-mobile">Next</span>
